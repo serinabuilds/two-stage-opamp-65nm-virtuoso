@@ -31,8 +31,6 @@ Purpose:
 Results:
 - Gain ≈ 18 dB
 
-![Common Source](schematics/Common_Source.png)
-
 ---
 
 ### 2. Common Drain Amplifier
@@ -45,7 +43,6 @@ Results:
 - Near unity gain
 - Improved load driving capability
 
-![Common Drain](schematics/Common_Drain.png)
 
 ---
 
@@ -60,8 +57,6 @@ Components:
 - Differential Pair
 - Active Load
 
-![Differential Amplifier](schematics/Differential_Amplifier.png)
-
 ---
 
 ### 4. Two-Stage Operational Amplifier
@@ -72,20 +67,6 @@ Current Mirror
 → Differential Pair
 → Common Source Stage
 → Compensation Capacitor
-
-![Two Stage OpAmp](schematics/Two_Stage_OpAmp.png)
-
----
-
-## Simulation Results
-
-### Transient Response
-
-![Transient](images/transient_response.png)
-
-### AC Response
-
-![AC Response](images/bode_plot.png)
 
 ---
 
